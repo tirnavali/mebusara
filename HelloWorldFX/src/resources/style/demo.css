@@ -1,0 +1,18 @@
+.button {
+    -fx-font-size: 14px;
+    -fx-min-width: 125px;
+    -fx-padding: 5 5 5 5;
+    -fx-alignment: center;
+
+
+}
+
+.borderpane {
+    -fx-alignment: center;
+}
+
+.label_veri_giris {
+    -fx-text-alignment: right;
+    -fx-font-size: 14px;
+    -fx-label-padding: 0 0 0 5;
+}
